@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/static/images/logo.png" width="180" alt="CipherVision Logo">
+  <img src="https://raw.githubusercontent.com/jamwalv296/CipherVision/main/app/static/images/logo.png" width="180" alt="CipherVision Logo">
 </p>
 
 <h1 align="center">CipherVision</h1>
@@ -234,7 +234,7 @@ cd CipherVision
 
 # Create and activate a virtual environment
 python -m venv venv
-source venv/bin/activate      # On Windows: venv\Scripts\activate
+source venv/bin/activate      # On Windows: venv\\Scripts\\activate
 
 # Install dependencies
 pip install -r requirements.txt
