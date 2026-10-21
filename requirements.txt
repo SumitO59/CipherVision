@@ -7,7 +7,8 @@ authlib
 httpx
 itsdangerous
 PyJWT
-sqlalchemy
+python-jose[cryptography]
+sqlalchemy<2.1
 psycopg2-binary
 pillow
 slowapi
@@ -16,3 +17,6 @@ opencv-python
 torch
 torchvision
 bchlib
+videoseal
+huggingface-hub
+requests
