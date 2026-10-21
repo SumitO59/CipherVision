@@ -1,1 +1,2 @@
-gitattributes     *.html linguist-detectable=false     *.py linguist-language=Python
+*.html linguist-detectable=false
+*.py linguist-language=Python
