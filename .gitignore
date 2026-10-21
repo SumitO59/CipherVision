@@ -1,0 +1,28 @@
+.env
+venv/
+uploads/
+outputs/
+ckpts/
+checkpoints/
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+.pytest_cache/
+.ipynb_checkpoints/
+*.log
+static/
+# Model weights (too large for GitHub)
+checkpoints/*.pth
+*.pth
+
+# Secrets and environments
+.env
+venv/
+__pycache__/
+*.pyc
